@@ -28,3 +28,8 @@ Combination
 Easy Ensemble AdaBoost Classifier 
 
  ![alt text](EasyEnsembleAdaBoostClassifier.png)   
+ 
+ 
+ ## Summary 
+ 
+ The Easy Ensemble Classifier algorithm had the highest level of accuracy at a .92%. I would use the Easy Ensemble Classifier because of the factors of  high accuracy and high precision. 
